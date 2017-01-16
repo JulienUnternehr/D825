@@ -1,0 +1,43 @@
+/*
+INFOS CHARTE GRAPHIQUE AUSY
+
+NOIR INTENSE : #120c0d;
+
+ROUGE DYNAMIQUE : #e11b22;
+
+BLANC : #ffffff;
+
+BLEU MINERAL : #26445F;
+
+BLEU HORIZON : #5D6E7B;
+
+TYPO : CALIBRI LIGHT / REGULAR / BOLD ;
+
+*/
+
+/*
+HEADER
+*/
+header .logo img {
+  width: 150px;
+}
+header a,
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a{
+  color: white;
+}
+
+
+
+.btn-primary {
+  background-color:#26445F;
+  border-color: #5D6E7B;
+}
+
+
+.navbar-default,
+.region-sidebar-second.region,
+.region-sidebar-first.region {
+  background-color:#5D6E7B;
+  border-color: #26445F;
+}
